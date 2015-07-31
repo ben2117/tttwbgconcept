@@ -46,7 +46,6 @@ class State
 	
 	public function destroyMe()
 	{
-		//this = null;
 	}
 	
 }
